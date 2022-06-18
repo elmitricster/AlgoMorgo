@@ -36,7 +36,7 @@
 
 ### System Architecture
 
-![](image/System Architecture.png)
+![](image/System-Architecture.png)
 
 
 
